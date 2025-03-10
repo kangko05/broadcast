@@ -15,7 +15,7 @@
     - implemented little chat system among connected clients
     - implemented disconnecting from a client when 'exit' typed in
 
-### go further
+### more
 
     - this program is currently sending fixed 4096 byte size messages only -> implement collecting all the buffers for longer messages
     - give random nicknames to clients
